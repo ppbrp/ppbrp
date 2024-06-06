@@ -1,10 +1,11 @@
+## Hi there 👋
 ![dino](https://github.com/ppbrp/ppbrp/assets/171954193/ebfa7a3e-7708-416f-96e0-eba1f5fc9c69)
 
 <!--
 **ppbrp/ppbrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
