@@ -1,6 +1,9 @@
 ## Hi there 👋
 ⚡ <b>Permission denied!</b>
 
+## 📈 Github Stat
+
+[![Github Status](https://github-readme-stats.vercel.app/api?username=ppbrp&count_private=true&theme=onedark&show_icons=true)](https://github.com/ppbrp)
 
 
 
